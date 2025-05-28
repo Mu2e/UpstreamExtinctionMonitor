@@ -44,6 +44,7 @@
   > 6.96 virtualdetector Construct a VirtualDetector that generates an NTuple --- via place
   
 #### <2> Run in GUI mode 
+    g4blgui
 1. Root-output mode: "Run" without "Visualization" 
   (event rate: 13450 evt/s)\
   Output -- "g4bl/g4beamline.root"
